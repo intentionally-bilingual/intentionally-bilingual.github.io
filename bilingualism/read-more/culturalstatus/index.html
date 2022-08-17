@@ -1,4 +1,5 @@
 <!doctype html><html id=html lang=en-us><head><meta charset=utf-8><meta name=viewport content="width=device-width"><title>Nimke.nl</title><meta name=description content="Intentionally Bilingual"><meta name=author content="Nimke Nijhof"><script src=https://cdn.tailwindcss.com></script><style type=text/tailwindcss>
+
     @layer utilities {
         h1 {
             @apply text-3xl font-bold pb-3 text-green-800;
@@ -21,6 +22,9 @@
           ul {
             @apply list-disc list-inside mx-2 pb-2 
           }
+          ul li ul {
+            @apply list-disc list-inside mx-4 pb-2 marker:text-gray-500
+          }        
           img {
             @apply rounded-md p-1 md:p-2
           }
