@@ -24,7 +24,7 @@ The one `/content/_index.md` is for the main page (nimke.nl), `/content/contact/
 
 ```
 ---
-title: "This is the main tittle and what showns up if you list all items"
+title: "This is the main title and what showns up if you list all items"
 weight: 15 // lower weight means higher in the list (or farther to the left)
 image: IMAGENAME.jpg // The image name in static\main_files\IMAGENAME.jpg use for lists
 ---
@@ -50,6 +50,8 @@ images:
 - a
 - LIST!!!!
 
+I am *italic*, I am **bold**, I am ***both, muhahahaha***
+
 {{< columns >}}
 {{< column "2/5" >}}
 I am the first column with a width of 2/5 of the page
@@ -70,7 +72,23 @@ I am the third and last column.
 
 # Launch a new version of the side
 
-Create pull request to main and complete it.
+Click on the github logo (the cat with the arm of octopus).
+And click on "create pull request".
+
+![make_pr](readme_images/make_pr.jpg)
+
+Create the pull request from nimke into main and click "Create"
+
+![make_pr_2](readme_images/make_pr_2.jpg)
+
+A new window should open, otherwise click on the arrow pointing into a line ("Github pull request").
+In here you find the pull request you made now clikc on "merge pull request".
+
+![finish_pr](readme_images/finish_pr.jpg)
+
+Lastly clikc on "Create merge commit" and wait a few minutes till your site is online.
+
+![finish_pr_2](readme_images/finish_pr_2.jpg)
 
 # TODO
 

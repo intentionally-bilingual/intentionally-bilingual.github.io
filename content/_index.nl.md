@@ -10,11 +10,11 @@ title: "Nimke.nl - Intentioneel Meertalig & Meer"
 
 {{< column "7/12 w-9/12" >}}
 
-Welkom bij deze semi-persoonlijke, semi-professionele blog over het opvoeden van kinderen in meerdere talen en het leven met intentie.
+Welkom bij deze semi-persoonlijke, semi-professionele website over het leven met intentie. Dit omvat (intentionele) meertaligheid, (Montessori) opvoeden en duurzaamheid. 
 
 Met echte verhalen, hoofdpijn momenten en advies over hoe je kinderen kunt opvoeden hoe jij dat wilt.
 
-Neem gerust een kijkje, lees de blogs en neem contact met me op voor eventuele opmerkingen, problemen of vragen!
+Neem gerust een kijkje, lees de pagina's en neem contact met me op voor eventuele opmerkingen, problemen of vragen!
 {{< /column >}}
 
 {{</ columns >}}

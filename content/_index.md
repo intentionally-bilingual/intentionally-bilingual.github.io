@@ -10,11 +10,11 @@ title: "Nimke.nl - Intentionally Bilingual & More"
 
 {{< column "7/12 w-9/12" >}}
 
-Welcome to this semi-personal, semi-professional blog about raising kids in multiple languages and living with intention.
+Welcome to this semi-personal, semi-professional website about living with intention. This includes (intentional) bilingualism, (Montessori) parenting and sustainability. 
 
 With real-life stories, struggles and advice about how to raise children your own way.
 
-Feel free to roam about, read the blogs and contact me for any comments, problems or questions you might have!
+Feel free to roam about, read the pages and contact me for any comments, problems or questions you might have!
 {{< /column >}}
 
 {{</ columns >}}

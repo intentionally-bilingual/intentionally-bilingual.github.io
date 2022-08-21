@@ -1,6 +1,6 @@
 ---
 title: "Over mij"
-weight: 100
+weight: 85
 ---
 
 {{< columns >}}
