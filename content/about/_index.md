@@ -1,6 +1,6 @@
 ---
 title: "About me"
-weight: 100
+weight: 85
 ---
 
 {{< columns >}}
