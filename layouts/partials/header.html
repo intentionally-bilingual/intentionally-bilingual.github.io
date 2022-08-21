@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html id="html" lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+
+<head>
+  <meta http-equiv="content-type" content="text/html;charset=utf-8">
+  <meta name="viewport" content="width=device-width" />
+  <title>{{ .Site.Title }}</title>
+  <meta name="description" content="{{ with .Site.Params.description }}{{ . }}{{ end }}">
+  <meta name="author" content="{{ with .Site.Params.author }}{{ . }}{{ end }}">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style type="text/tailwindcss">
+
+    @layer utilities {
+        h1 {
+            @apply text-3xl font-bold pb-3 text-green-800;
+          }
+          h2 {
+            @apply text-xl font-bold pb-1 text-green-800;
+          }
+          h3 {
+            @apply text-base font-bold pb-1 text-green-800;
+          }
+          p {
+            @apply pb-2 mx-1;
+          }
+          body {
+          @apply bg-gray-300 
+          }
+          nav {
+          @apply text-gray-300  bg-green-800 text-base lg:text-lg
+          }
+          ul {
+            @apply list-disc list-inside mx-2 pb-2 
+          }
+          ul li ul {
+            @apply list-disc list-inside mx-4 pb-2 marker:text-gray-500
+          }        
+          img {
+            @apply rounded-md p-1 md:p-2
+          }
+          a {
+            @apply underline text-blue-500
+          }
+        }
+
+        @layer components {
+            .router-link-default {
+                @apply 
+                  group-hover:bg-gray-100 group-hover:text-green-800
+                  px-1
+                  lg:px-3
+                  py-2
+                  m-2
+                  rounded-full
+                  
+                  font-bold
+              }
+          .router-link-exact-active {
+            @apply rounded-full bg-gray-100 text-blue-500 w-auto;
+          }
+          .page {
+            @apply flex-col
+            justify-center
+            bg-gray-100
+            md:w-3/4
+            md:max-w-5xl
+            w-full
+            px-3
+            md:px-6
+            xl:px-36
+            py-1
+            md:py-6
+            shadow-xl
+            shadow-gray-500
+            md:rounded-t-xl
+            min-h-screen
+          }
+        }
+      </style>
+  {{ hugo.Generator }}
+</head>
+
+<body>
+
+  {{ partial "nav.html" . }}
+
+  <main class="content">

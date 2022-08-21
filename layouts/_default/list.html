@@ -1,0 +1,32 @@
+{{ partial "header.html" . }}
+
+<div class="flex justify-center">
+
+  <div class="page">
+    <h1>{{ .Title }}</h1>
+
+
+    {{ .Content }}
+
+
+    <ul class="flex-col justify-start">
+      {{ range.Data.Pages }}
+      <a class="no-underline text-black" href="{{ .RelPermalink }}">
+        <div class="flex justify-start py-3 h-32 bg-gray-300 rounded-xl m-2 p-2">
+
+          {{/* <img src="/images/{{.Params.image}}" width="100" class="hidden sm:block rounded-full" /> */}}
+          <div class="flex flex-col w-full h-full text-center px-2 md:px-3">
+            <h3 class="w-full  text-xl h-fit">{{ .Title }}</h3>
+            <p class="text-ellipsis grow overflow-hidden">
+              {{ substr .Summary 0 250 | safeHTML}}
+            </p>
+          </div>
+        </div>
+      </a>
+
+      {{ end }}
+    </ul>
+  </div>
+</div>
+
+{{ partial "footer.html" . }}
