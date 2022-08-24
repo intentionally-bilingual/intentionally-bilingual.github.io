@@ -10,7 +10,7 @@ title: "Nimke.nl - Intentionally Bilingual & More"
 
 {{< column "7/12 w-9/12" >}}
 
-Welcome to this semi-personal, semi-professional website about living with intention. This includes (intentional) bilingualism, (Montessori) parenting and sustainability. 
+Welcome to this semi-personal, semi-professional website about living with intention. This includes (intentional) bilingualism, (Montessori) parenting and sustainability <!-- Maybe already add here that sustainability is more then just being green -->.
 
 With real-life stories, struggles and advice about how to raise children your own way.
 
