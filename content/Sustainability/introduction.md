@@ -4,19 +4,15 @@ publishdate: 3000-01-01
 weight: 10
 ---
 
-<!-- Double spaces are not needed at he end of sentence if you start a new paragraph after that -->
+On this page I will talk about what sustainability is. You might be surprised it's more than just caring for the planet, at least I was.
 
-In this post <!-- post? Is this not a series or article? --> I will talk about what sustainability is. You might be surprised it's more than just caring for the planet, at least I was.
-
-First, the word itself. It's a word that is used more and more these days, but what does it mean? When looking at the dictionary meaning, sustainability is _the quality of being able to continue over a period of time_. Super vague, I know <!-- I find a very clear, or is that just me? -->. Nowadays most people think about improving their way of living for the good of the environment. There are however more parts to sustainability than that.
+First, the word itself. It's a word that is used more and more these days, but what does it mean? When looking at the dictionary meaning, sustainability is _the quality of being able to continue over a period of time_. Nowadays most people think about improving their way of living for the good of the environment. There are however more parts to sustainability than that.
 
 # Three pillars of sustainability
 
-<!-- Maybe add "according to the UN The term sustainability encompasses 3 categories ..." so it is directly clear where the 3 categories come from -->
-
 The term sustainability encompasses 3 categories or pillars of sustainability: social, economic, and environmental. The last one being the one that we hear most often. I'll shortly explain them below and conclude with what we do ourselves.
 
-The United Nations have put several goals in place about sustainability in all pillars. I think they are are fair representation of what sustainability is all about, so I will mention them in each of the three sections.
+The United Nations have put several goals in place about sustainability. I think they are are fair representation of what sustainability is all about and fit in all three pillars, so I will mention them in each of the three sections.
 
 ## Social
 
@@ -26,14 +22,13 @@ The United Nations goals for social sustainability include: no hunger, no povert
 
 ## Economic
 
-<!-- My spell check goes wild on this paragraph -->
-<!-- You do not really answer the question what it is. Just why it is needed and examples. Do you mean something like "an economic system that can keep on running without running out of resources, humans, or will power. In that system growth is NOT requirement but also not avoided. " -->
+From an economic perspective, sustainabilty is having long-term economic growth. This may sound somewhat controversial as not everything that supports economic growth is neccesarily good for people or the environment. Therefore in order to be sustainable, this growth should be reached without negatively impacting the other pillars. Some development is needed to e.g. fight world hunger, innovate for greener electricity and so on, and not enough could actually hinder the other pillars.
 
-From an economic perspective, sustainabilty is a bit more tricky or controversial. Not everything that is good for economical growth, is neccesarily good for people or the environment. However, not having enough economic sustainabilty cand actually hinder the other pillars. Some development is needed to e.g. fight world hunger, innovate for greener electricity and so on.
-
-The United Nations have a few economic goals stated. These are economic growth with fair work <!-- fair work was also in social, is that correct? -->, and stimulating industrialisation and innovation. Fighting poverty is also both a social and an economic value.
+The United Nations have a few economic goals stated. These are economic growth (which includes the fair work already mentioned in social sustainability), and stimulating industrialisation and innovation. Fighting poverty is also both a social and an economic value.
 
 ## Environmental
+
+Environmental sustainability is the management of our physical environment in a way that supports living within ecological limits, protection of natural resources, and meeting the needs of communities without compromising the ability of future generations to meet their own needs.
 
 When put into the environmental pillar, the meaning of sustainability can be explained by caring for the planet itself. This mainly boils down to not using resources that cannot be replace and/or damage the environment.
 
