@@ -38,6 +38,6 @@ United Nations goals that belong to this category are including: clean water, cl
 
 Sustainability for us as a family, begins with acknowledgment. A lot of things are going great already, and a lot of things are not fitting into that ideal picture. Acknowledging that this is the case without feeling guilty, yet try to improve bit by bit, is key for us.
 
-We try to focus on practical things while still enjoying the life we built. This results in putting our money in companies that have similar goals in mind, choosing products that are second hand, reusable or zero waste <!--  Reduces, reuse, recycle. Start with trying to avoid unnesseray uses-->, going by bike or public transport when possible, and consuming mainly plant based.
+We try to focus on practical things while still enjoying the life we built. This results in the three R's (reduce, reuse and recycle), going by bike or public transport when possible, consuming mainly plant-based, and putting our money in companies that have similar goals in mind.
 
 <!-- You are also going by bike :P -->
