@@ -10,25 +10,23 @@ First, the word itself. It's a word that is used more and more these days, but w
 
 # Three pillars of sustainability
 
-The term sustainability encompasses 3 categories or pillars of sustainability: social, economic, and environmental. The last one being the one that we hear most often. I'll shortly explain them below and conclude with what we do ourselves.
+The term sustainability encompasses 3 categories or pillars of sustainability: social, economic, and environmental. The last one being the one that we hear most often. Some might know them as the 3 P's, being people, planet and profit. I'll shortly explain them below and conclude with what we do ourselves.
 
 The United Nations have put several goals in place about sustainability. I think they are are fair representation of what sustainability is all about and fit in all three pillars, so I will mention them in each of the three sections.
 
 ## Social
 
-When put to social issues, sustainability is all about caring for the people on this planet. Often this is seen from a business perspective, but can also be seen from national/global structures and individual practices.
+When put to social issues, sustainability is all about caring for the people. Often this is seen from a business perspective, but can also be seen from national/global structures and individual practices.
 
 The United Nations goals for social sustainability include: no hunger, no poverty, health and wellbeing, quality education, gender equality, no inequality whatsoever, peace, justice, dignity and fair work.
 
 ## Economic
 
-From an economic perspective, sustainabilty is having long-term economic growth. This may sound somewhat controversial as not everything that supports economic growth is neccesarily good for people or the environment. Therefore in order to be sustainable, this growth should be reached without negatively impacting the other pillars. Some development is needed to e.g. fight world hunger, innovate for greener electricity and so on, and not enough could actually hinder the other pillars.
+From an economic perspective, sustainabilty is having long-term economic growth, including profit. This may sound somewhat controversial as not everything that supports economic growth is neccesarily good for people or the environment. Therefore in order to be sustainable, this growth should be reached without negatively impacting the other pillars. Some development is needed to e.g. fight world hunger, innovate for greener electricity and so on, and not enough could actually hinder the other pillars.
 
 The United Nations have a few economic goals stated. These are economic growth (which includes the fair work already mentioned in social sustainability), and stimulating industrialisation and innovation. Fighting poverty is also both a social and an economic value.
 
 ## Environmental
-
-Environmental sustainability is the management of our physical environment in a way that supports living within ecological limits, protection of natural resources, and meeting the needs of communities without compromising the ability of future generations to meet their own needs.
 
 When put into the environmental pillar, the meaning of sustainability can be explained by caring for the planet itself. This mainly boils down to not using resources that cannot be replace and/or damage the environment.
 
@@ -38,6 +36,6 @@ United Nations goals that belong to this category are including: clean water, cl
 
 Sustainability for us as a family, begins with acknowledgment. A lot of things are going great already, and a lot of things are not fitting into that ideal picture. Acknowledging that this is the case without feeling guilty, yet try to improve bit by bit, is key for us.
 
-We try to focus on practical things while still enjoying the life we built. This results in the three R's (reduce, reuse and recycle), going by bike or public transport when possible, consuming mainly plant-based, and putting our money in companies that have similar goals in mind.
+We try to focus on practical things while still enjoying the life we built. This results in the four R's (refuse, reduce, reuse and recycle), going by bike or public transport when possible, consuming mainly plant-based, and putting our money in companies that have similar goals in mind.
 
 <!-- You are also going by bike :P -->
