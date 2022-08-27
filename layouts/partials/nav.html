@@ -34,6 +34,7 @@
 
         </div>
 
+        {{ if gt (.Data.Pages|len) 1}}
         <div class="hidden group-hover:block absolute flex-col bg-green-800 
       font-bold rounded-b-lg pb-2">
           {{ range.Data.Pages }}
@@ -43,7 +44,7 @@
           </div>
           {{ end }}
         </div>
-
+        {{ end }}
       </div>
       {{end}}
     </div>
