@@ -1,16 +1,15 @@
 ---
 title: "Introducing the three pillars of sustainability"
-publishdate: 3000-01-01
 weight: 10
 ---
 
 {{< columns >}}
 
-{{< column "1/4" >}}
+{{< column "1/3" >}}
 ![Picture of sustainability with people, money and plant](/images/sustainability.jpeg)
 {{</ columns >}}
 
-{{< column "3/4" >}}
+{{< column "2/3" >}}
 On this page I will talk about what sustainability is. You might be surprised it's more than just caring for the planet, at least I was.
 
 First, the word itself. It's a word that is used more and more these days, but what does it mean? When looking at the dictionary meaning, sustainability is _the quality of being able to continue over a period of time_. Nowadays most people think about improving their way of living for the good of the environment. There are however more parts to sustainability than that.
