@@ -4,9 +4,18 @@ publishdate: 3000-01-01
 weight: 10
 ---
 
+{{< columns >}}
+
+{{< column "1/4" >}}
+![Afbeelding van duurzaamheid met mensen, geld, en een plant](/images/duurzaamheid.jpeg)
+{{</ columns >}}
+
+{{< column "3/4" >}}
 Op deze pagina vertel ik wat duurzaamheid is. Het zal je misschien verbazen dat het meer is dan alleen zorgen voor de planeet, zoals ik in eerste instantie dacht.
 
 Eerst het woord zelf. Het is een woord dat tegenwoordig steeds vaker wordt gebruikt, maar wat betekent het? Als we naar de betekenis van het woordenboek kijken, is duurzaamheid *de eigenschap om lang goed te blijven of te blijven bestaan*. Tegenwoordig denken de meeste mensen aan het verbeteren van hun manier van leven voor het welzijn van het milieu. Er zijn echter meer aspecten aan duurzaamheid dan dat.
+{{< /column >}}
+{{</ columns >}}
 
 # Drie pijlers van duurzaamheid
 
