@@ -16,7 +16,7 @@ Dyslexia is not a language disorder, it can however cause extra (language) diffi
 ## Dyslexia and young bilinguals
 When a young bilingual has dyslexia, this will be present in all their languages. It's not possible to have dyslexia in only one of the languages. However, it is possible that the perceived problems are different or less/more severe in one of the languages. This often has to do with how transparent the languages are, and which writing system is used. Children will have problems in writing and reading all their languages, but will not be restricted in learning the actual languages themselves. 
 
-###Writing systems
+### Writing systems
 In alpabetical languages (Cyrillic, Greek, Hebrew, Latin), one symbol (the letter) corresponds to a single sound. Some languages are very transparent and always have the same letter-sound link. Others don't and have multiple possible letter-sound links or write combinations of letters that are not spoken out loud (e.g. English is not very transparent with words like "knife" and "though").
 
 Other languages use different systems such as logographic systems that use a single symbol for a complete grammatical word (such as Chinese characters and Hieroglyphs). A syllabic system uses a single symbol for a syllable, using a few symbols for a full word (such as Japanese and Cherokee). An Abjad and an abugida are systems that are in between the syllabic and logographic systems, using only consonants with Abjad (such as Arabic) and mainly consonants with Abugida (such as Indic and Ethiopic). In all these different systems, it's still the same skill that's needed to link sounds to symbols, and will all be affected by dyslexia. 
