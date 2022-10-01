@@ -34,9 +34,9 @@ Most languages that are learned at a later stage in life, are actively learned i
 
 While researching this topic, I came across much more information than I'm including in this post. Some practical tips however, I'll add below because I thought they were nice to share.
 
-- Did you know that there is a dyslexia font? As many letters in the latin alfabet look similar (bdpq for example), a font is creating especially for dyslexic people. It's supposed to read more easily once you get used to it. (Curious? This post is actually in that font! More information about it is on their website, [dyslexiefont.com](https://www.dyslexiefont.com/) 
+Did you know that there is a dyslexia font? As many letters in the latin alfabet look similar (bdpq for example), a font is creating especially for dyslexic people. It's supposed to read more easily once you get used to it. (Curious? This post is actually in that font! More information about it is on their website, [dyslexiefont.com](https://www.dyslexiefont.com/) 
 
-- As dyslexia is a problem with reading and writing, diagnoses is often a bit later in childhood. If problems in language or specifically auditory skills are seen, especially when dyslexia is seen in the immediate family, it might be good to find help early. Speech therapist normally don't treat dyslexia in an ordinary practice, but they can help with strenghting auditory skills.
+As dyslexia is a problem with reading and writing, diagnoses is often a bit later in childhood. If problems in language or specifically auditory skills are seen, especially when dyslexia is seen in the immediate family, it might be good to find help early. Speech therapist normally don't treat dyslexia in an ordinary practice, but they can help with strenghting auditory skills.
 
 
 {{</ dyslexia_font>}}
