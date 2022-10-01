@@ -16,7 +16,7 @@
 
           {{/* <img src="/images/{{.Params.image}}" width="100" class="hidden sm:block rounded-full" /> */}}
           <div class="flex flex-col w-full h-full text-center px-2 md:px-3">
-            <h3 class="w-full  text-xl h-fit">{{ .Title }}</h3>
+            <h3 class="w-full  text-xl h-fit pt-0">{{ .Title }}</h3>
             <p class="text-ellipsis grow overflow-hidden">
               {{ substr .Summary 0 250 | safeHTML}}
             </p>
