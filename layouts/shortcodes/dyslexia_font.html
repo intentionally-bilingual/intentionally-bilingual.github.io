@@ -1,0 +1,19 @@
+<style>
+    @font-face {
+        font-family: 'Dyslexic';
+        /*a name to be used later*/
+        src: url('/fonts/OpenDyslexic.otf');
+        /*URL to font*/
+    }
+
+    div {
+        font-family: 'Dyslexic' !important;
+        font-weight: normal;
+    }
+</style>
+
+<div>
+    <p>
+        {{ .Inner | markdownify }}
+    </p>
+</div>

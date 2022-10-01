@@ -25,7 +25,7 @@ Deze podcasts zijn beschikbaar op ten minste Google Podcasts en Spotify.
 [Bilingual Parenting Podcast (Engels)](https://bilingualparentingpodcast.libsyn.com)  
 [Much Language Such Talk (Engels)](https://mlstpodcast.com/)
 
-## Books
+## Boeken
 
 Op deze pagina's vind je meertalige boeken, of een selectie van boeken in verschillende talen.
 
