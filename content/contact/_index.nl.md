@@ -1,5 +1,5 @@
 ---
-title: "Contact & Aanbod"
+title: "Contact"
 weight: 1000
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Contact & Services"
+title: "Contact"
 weight: 1000
 ---
 
