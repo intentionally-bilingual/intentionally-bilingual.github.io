@@ -7,7 +7,7 @@ weight: 85
 {{< column "2/3" >}}
 Nice to meet you! I am Nimke Nijhof, a Dutch speech and language therapist, and English speaking mom to two bilingual daughters.
 
-As a therapist, I help children with developmental disabilities and or autism communicate, in whatever way possible. This includes direct therapy sessions and also advising parent on how to stimulate language development in often challenging circumstances. In recent years I have specialised in bilingualism and cultural diversity. This both in normally developing children and in children with special needs.
+As a (diagnostic) therapist, I work with children that have problems in hearing, understanding or expressing languages. I conduct hearing tests and use diagnostic test to see if and which lanaguage problems occur. This includes Developmental Language Delays and Specific Language Disorders. In recent years I have specialised in bilingualism and cultural diversity. This both in normally developing children and in children with special needs.
 
 As a mom, I raise my daughters as growing bilinguals. While both my husband and I are born and raised in a Dutch monolingual environment, we are now an English speaking family in the comfort of our home (combined with signs). This Intentional Bilingualism (or non-native bilingualism) isn’t without its struggles, doubts and judgements. Often these are external. However, our bilingual journey is definitely worth the effort.
 
