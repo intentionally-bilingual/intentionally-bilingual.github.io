@@ -7,7 +7,7 @@ weight: 85
 {{< column "2/3" >}}
 Leuk je hier te ontmoeten! Ik ben Nimke Nijhof, een Nederlandse logopediste en een Engels sprekende moeder van twee meertalige dochters.
 
-Als therapeut werk ik binnen een audiologisch centrum. Ik werk met kinderen die problemen hebben met het gehoor en/of spraak-taalproblematiek. Ik doe gehoortesten en doe spraaktaaldiagnostiek om te kijken of en welke taalproblemen er zijn. Dit kunen onder andere taalachterstanden, TOS of spraakproblemen zijn. De afgelopen jaren heb ik mij verder verdiept in meertaligheid en culturele diversiteit. Dit zowel bij normaal ontwikkelende kinderen als bij kinderen met problemen in de ontwikkeling.
+Als therapeut werk ik binnen een audiologisch centrum. Ik werk met kinderen die problemen hebben met het gehoor en/of spraak-taalproblematiek. Ik doe gehoortesten en doe spraaktaaldiagnostiek om te kijken of en welke taalproblemen er zijn. Dit kunnen onder andere taalachterstanden, TOS of spraakproblemen zijn. De afgelopen jaren heb ik mij verder verdiept in meertaligheid en culturele diversiteit. Dit zowel bij normaal ontwikkelende kinderen als bij kinderen met problemen in de ontwikkeling.
 
 Als moeder voed ik mijn dochters meertalig op. Hoewel we beiden zijn geboren en getogen in Nederland met Nederlands als moedertaal, zijn we een gezin dat thuis alleen Engels spreekt (met daarbij gebaren). Deze intentionele meertaligheid is niet zonder strijd, twijfels en oordelen, vaak van anderen. Onze meertalige reis is echter zeker de moeite waard.
 
