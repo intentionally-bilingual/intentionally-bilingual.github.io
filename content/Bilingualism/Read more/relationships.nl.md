@@ -26,9 +26,10 @@ Net als onze eigen reden om over te stappen, zullen veel mensen hun taalgebruik 
 
 ## Wordt vervolgd
 Aangezien er weinig informatie en feiten over dit onderwerp te vinden zijn, hoor ik graag van jullie!
-Wat zijn jullie verhalen en ervaringen?
-Wat zijn jullie ideeën en theorieën hierover?
-Wat zijn jullie vragen of tips voor deze specifieke blog?
-Waar lopen jullie tegenaan op het gebied van talen en relaties?
+
+Wat zijn jullie verhalen en ervaringen?  
+Wat zijn jullie ideeën en theorieën hierover?  
+Wat zijn jullie vragen of tips voor deze specifieke blog?  
+Waar lopen jullie tegenaan op het gebied van talen en relaties?  
 
 Laat het me weten en laten we samen meer leren!
