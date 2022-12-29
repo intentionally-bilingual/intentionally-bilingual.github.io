@@ -1,13 +1,12 @@
 ---
 title: "Talen in relaties"
-publishdate: 3000-01-01
 weight: 70
 ---
 
 Is het je wel eens opgevallen dat als een relatie tussen mensen eenmaal is begonnen in een bepaalde taal, het heel moeilijk is om dit op een later tijdstip te veranderen? Voor de meeste mensen voelt het spreken van een andere taal dan normaal wordt gesproken met die persoon, ongemakkelijk en vreemd. Deze pagina gaat over dat fenomeen, namelijk talen in relaties.
 
 ## Mijn eigen ervaring
-Laten we beginnen met ons eigen verhaal. Mijn man en ik zijn allebei Nederlands en zijn door onze ouders eentalig Nederlands opgevoed (hoewel ik receptief ook wat dialect heb meegekregen). De overstap naar het Engels was een bewuste keuze ter voorbereiding van onze (toen nog) toekomstige kinderen, om ze een tweetalige opvoeding te geven. Dat hebben we tijdens een boswandeling besloten, en toen hebben we onze taal ter plekke veranderd van Nederlands naar Engels. Het kostte de eerste dagen (en weken als we moe of gefrustreerd waren) wat moeite, maar al snel begon het natuurlijk aan te voelen. Nu -na zo'n 4 jaar- is het gewoon zoals het is.
+Laten we beginnen met ons eigen verhaal. Mijn man en ik zijn allebei Nederlands en zijn door onze ouders eentalig Nederlands opgevoed (hoewel ik receptief ook wat dialect heb meegekregen). De overstap naar het Engels was een bewuste keuze ter voorbereiding van onze (toen nog) toekomstige kinderen, om ze een tweetalige opvoeding te geven. Dat hebben we tijdens een boswandeling besloten, en toen hebben we onze taal ter plekke veranderd van Nederlands naar Engels. Het kostte de eerste dagen (en weken als we moe of gefrustreerd waren) wat moeite, maar al snel begon het natuurlijk aan te voelen. Nu -na zo'n 4 jaar- is het gewoon zoals het is. Soms voelt het nu zelfs raar om Nederlands tegen elkaar te praten.
 
 Het lijkt erop dat mijn man en ik een van de weinigen zijn die ons taalgebruik binnen één dag zo drastisch hebben veranderd, of uberhaupt hebben veranderd. Als ik echter naar mijn andere relaties kijk, vind ik het soms nog steeds erg moeilijk. Een voorbeeld zijn mijn ouders; ook al spreek ik normaal alleen Engels met mijn dochter, het is heel moeilijk om dat te doen in het bijzijn van mijn ouders. Mijn brein keert automatisch terug naar het Nederlands als ik ze zie, vooral als ik bij hen thuis ben (wat ook het huis is waarin ik ben opgegroeid). De taal die ik al bijna 30 jaar met ze spreek, is moeilijk te veranderen, ook al praat ik niet eens met hen, maar spreek ik alleen in hun bijzijn.
 
@@ -16,6 +15,8 @@ Omdat ik over dit onderwerp wilde schrijven, probeerde ik het waarom en hoe van 
 
 ## Een zeer meertalig probleem
 Aangezien een eentalig persoon slechts één taal heeft om te gebruiken, zullen ze nooit de noodzaak tegenkomen om van taal te wisselen binnen een relatie. Natuurlijk kunnen ze tijdens vakanties of andere momenten een andere taal proberen, maar hun kerntaal zal altijd hetzelfde zijn. Meertalige mensen kunnen echter meerdere redenen hebben om hun relationele taal te veranderen. De meeste redenen die ik hoorde, hebben te maken met de wens om een nieuwe taal te leren of te oefenen, of dat ze ouders worden.
+
+Het is belangrijk op te merken dat taalmixen (het veranderen van taal binnen gesprekken) iets anders is. Als mensen gewend zijn om 2 of meer talen te spreken binnen een relatie, dan is dat hun "uitgangspunt". Overschakelen naar totaal andere talen, of uitsluitend één taal gaan gebruiken, kan echter net zo raar aanvoelen.
 
 ### Een nieuwe taal
 Bij het leren van een nieuwe taal kan men de wens hebben om deze te oefenen met mensen met wie ze in eerste instantie hun andere taal spraken. Ik zie dit vooral om me heen bij expats en andere nieuwkomers in Nederland. In het begin is de gebruikte taal Engels, want dat is wat de meeste mensen tegenwoordig gemeen hebben. In een later stadium leren ze Nederlands en willen ze dit steeds meer oefenen. Vrienden en partners wordt gevraagd om een tijdje Nederlands met ze te praten, en sommigen schakelen zelfs voor een langere periode helemaal over op het Nederlands.
