@@ -25,10 +25,12 @@ When learning a new language, one might have the wish to practice it with people
 Just as our own reason to switch, a lot of people might switch their language use, when children get involved. You might be wanting to add a non-native language to the mix, just like we did. You might have already multiple languages in your family, and choose to give priority to one at the moment. You might move countries and switch the language accordingly to balance the minority and majority language input. 
 
 ## To be continued
-As there is little information and facts to be found about this subject, I'd love to hear from you! 
-What are your stories and experiences?
-What are your ideas and theories on the matter?
-What are your questions or tips for this particular blog. 
-What are your struggles regarding languages and relationships?
+As there is little information and facts to be found about this subject, I'd love to hear from you!  
+
+What are your stories and experiences?  
+What are your ideas and theories on the matter?  
+What are your questions or tips for this particular blog.  
+What are your struggles regarding languages and relationships?  
+
 
 Let me know and let's learn more together!
