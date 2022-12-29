@@ -29,7 +29,7 @@ As there is little information and facts to be found about this subject, I'd lov
 
 What are your stories and experiences?  
 What are your ideas and theories on the matter?  
-What are your questions or tips for this particular blog.  
+What are your questions or tips for this particular blog?  
 What are your struggles regarding languages and relationships?  
 
 
